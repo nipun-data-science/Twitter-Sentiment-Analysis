@@ -1,0 +1,2 @@
+Conducted sentiment analysis on 10,000+ Twitter data points using natural language processing techniques identified public sentiment towards company tweets, providing actionable insights for targeted engagement strategies. Implemented SVM, Decision Tree Classifier, Logistic Regression, and KNN algorithms for sentiment classification, evaluating performance with various metrics. Analysis of Twitter sentiment to provide insights into public opinions on specific topics or keywords and predict their
+sentiment on test data.
